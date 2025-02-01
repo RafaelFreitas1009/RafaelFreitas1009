@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RafaelFreitas1009
+- 👋 Hi, I’m Rafael Freitas
 - 👀 I’m interested in data science and statistcs
 - 🌱 I’m currently learning machine learning and predict models
 - 💞️ I’m looking to collaborate on business analytics 
