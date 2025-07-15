@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael Freitas
 - 👀 I’m interested in data science, artificial intelligence, software engineer and analytics
 - 🌱 I’m currently learning machine learning and artificial intelligence
-- 💞️ I’m looking to collaborate on analytics sollutions
+- 💞️ I’m looking to collaborate on analytics solutions
 - 📫 How to reach me rafaelfreitas1009@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
