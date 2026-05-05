@@ -83,3 +83,13 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
