@@ -8,7 +8,21 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-### 🧠 Backend & APIs
+## 🧠 What I do
+
+-   🏗️ SaaS & High-scale systems
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   💳 Payments, subscriptions & business logic
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & APIs
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -23,7 +37,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-### 🎨 Frontend
+### Frontend
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -34,7 +48,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -48,7 +62,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-### 🗄️ Databases
+### Databases
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -58,7 +72,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-### 🔧 Tools & Automation
+### Automation
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -67,7 +81,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-### 📊 Data & Analytics
+### Data & Analytics
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
